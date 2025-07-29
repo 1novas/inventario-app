@@ -1,5 +1,5 @@
 const API_URL = 'https://inventario-bhkd.api.codehooks.io/dev/productos';
-const API_KEY = '5e46d7f9-9dbc-454b-b38c-348777183597';
+//const API_KEY = "api key";
 
 const headers = {
   'x-apikey': API_KEY,
